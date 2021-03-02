@@ -1,4 +1,4 @@
-package com.student.efrei.db.model;
+package com.efrei.db.model;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
